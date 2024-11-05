@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obikeido.github.io/ERG/sitemap_index.txt
+Sitemap: https://obikeido.github.io/kFl/sitemap_index.txt
+Sitemap: https://obikeido.github.io/ukB/sitemap_index.txt
+Sitemap: https://obikeido.github.io/xXL/sitemap_index.txt
